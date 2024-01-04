@@ -1,2 +1,3 @@
 # EDA-red-wine-dataset
-Exploratory data analysis on red wine dataset. Coursework for SENG207 (Programming For Engineers)
+
+This repository contains code performing Exploratory Data Analysis on the red wine dataset. Coursework for SENG207 (Programming For Engineers)
